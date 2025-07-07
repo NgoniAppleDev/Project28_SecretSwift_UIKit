@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = SNNK28T63Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Project28/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Secret Swift";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +177,7 @@
 				DEVELOPMENT_TEAM = SNNK28T63Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Project28/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Secret Swift";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
